@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/td/server.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "amin khan banarsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/td/server/issues"
+  },
+  "homepage": "https://github.com/td/server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongose": "^0.0.2-security"
+  }
+}
